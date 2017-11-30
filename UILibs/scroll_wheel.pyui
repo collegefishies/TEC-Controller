@@ -1,0 +1,62 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {480, 320}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "flex" : "WH",
+          "frame" : "{{190, 110}, {100, 100}}",
+          "background_color" : "RGBA(1.000000,0.583333,0.861111,1.000000)",
+          "class" : "ImageView",
+          "name" : "bg",
+          "uuid" : "425F5A93-B058-4492-8743-94EB9A4640FD"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{116, 147}, {198, 14}}",
+        "class" : "View",
+        "attributes" : {
+          "custom_class" : "h_wheel",
+          "frame" : "{{190, 110}, {100, 100}}",
+          "class" : "View",
+          "name" : "view1",
+          "uuid" : "0A8E0FA1-A150-44E4-B013-939EA2053674"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{98, 27}, {18, 112}}",
+        "class" : "View",
+        "attributes" : {
+          "name" : "view2",
+          "frame" : "{{190, 110}, {100, 100}}",
+          "custom_class" : "v_wheel",
+          "class" : "View",
+          "uuid" : "867827D4-28B4-4F51-A042-EAEB8E086013"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {480, 320}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

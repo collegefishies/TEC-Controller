@@ -1,0 +1,31 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 6}, {228, 228}}",
+        "class" : "View",
+        "attributes" : {
+          "custom_class" : "SceneView",
+          "frame" : "{{70, 70}, {100, 100}}",
+          "class" : "View",
+          "name" : "view1",
+          "uuid" : "FAA60AF6-631A-4D42-A3EB-5A306CDEFF33"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {240, 240}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {320, 488}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "flex" : "WH",
+          "frame" : "{{110, 190}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "bg",
+          "uuid" : "E5AE391B-6CBF-43E9-91CE-5787B2195252"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 6}, {20, 171}}",
+        "class" : "View",
+        "attributes" : {
+          "name" : "view1",
+          "frame" : "{{110, 190}, {100, 100}}",
+          "flex" : "RB",
+          "custom_class" : "v_wheel",
+          "class" : "View",
+          "uuid" : "A1D1821B-C618-4C4E-A637-6E2AF978B49A"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{34, 6}, {280, 171}}",
+        "class" : "View",
+        "attributes" : {
+          "name" : "graph1",
+          "frame" : "{{110, 190}, {100, 100}}",
+          "flex" : "W",
+          "custom_class" : "SceneView",
+          "class" : "View",
+          "uuid" : "C421984D-B9F8-4844-B4BB-034CA222E305"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{34, 185}, {280, 20}}",
+        "class" : "View",
+        "attributes" : {
+          "custom_class" : "h_wheel",
+          "frame" : "{{110, 190}, {100, 100}}",
+          "flex" : "W",
+          "class" : "View",
+          "name" : "view3",
+          "uuid" : "22B63504-7A55-448C-AE56-3989B7578D83"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 480}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
